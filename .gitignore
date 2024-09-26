@@ -10,6 +10,8 @@
 .svn/
 migrate_working_dir/
 
+assets/fir-chat-app-9303e-firebase-adminsdk-4c3xw-64922fb1dd.json
+
 # IntelliJ related
 *.iml
 *.ipr
